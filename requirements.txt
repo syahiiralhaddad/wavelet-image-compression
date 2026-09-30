@@ -1,0 +1,4 @@
+numpy
+PyWavelets
+scikit-image
+matplotlib
